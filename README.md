@@ -4,5 +4,6 @@
 [University of Genoa (UniGe)](https://unige.it/en)<br>
 **Supervisor:** [Prof. Gianni Viardo Vercelli](https://rubrica.unige.it/personale/VUZCWVtr)
 
-RealityCapture is the state-of-the-art photogrammetry software solution that is changing the industry. It is currently the fastest solution on the market, which brings effectivity to your work and allows you to focus on your targets.
+RealityCapture (V.1.2.1) is the state-of-the-art photogrammetry software solution that is changing the industry. It is currently the fastest solution on the market, which brings effectivity to your work and allows you to focus on your targets.
+Moreover, the Unreal Engine 5 is most advanced real-time 3D creation tool, which enables creators across industries to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
 
