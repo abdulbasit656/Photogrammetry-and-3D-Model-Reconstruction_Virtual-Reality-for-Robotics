@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics
+message: >-
+  RealityCapture is the state-of-the-art
+  photogrammetry software solution that is changing
+  the industry. It is currently the fastest solution
+  on the market, which brings effectivity to your
+  work and allows you to focus on your targets.
+type: dataset
+authors:
+  - given-names: Basit
+    family-names: Akram
+    email: abdulbasit656@gmail.com
+    affiliation: UNIGE
